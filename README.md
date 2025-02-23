@@ -1,4 +1,4 @@
-# Sliver-Server-Fun
+# Naughty Sliver Server
 C&C Ubuntu Server
 
 ## Objective
