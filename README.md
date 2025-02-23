@@ -1,4 +1,4 @@
-# Naughty Sliver Server
+# Red Team shenanigans with Sliver Server
 C&C Ubuntu Server
 
 ## Objective
